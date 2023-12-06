@@ -1,0 +1,3 @@
+admin;Paris;18
+toto;Paris;20
+toto;Bruxelles;18
